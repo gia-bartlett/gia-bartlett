@@ -16,5 +16,6 @@ I spend a lot of time underground exploring caves all over the world.
 I love reading and baking when I am at home.  
 I am always looking to add to my collection of houseplants :hibiscus:
 
+:memo:
 ![Visitor Count](https://profile-counter.glitch.me/gia-bartlett/count.svg)
 
