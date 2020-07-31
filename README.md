@@ -12,3 +12,5 @@ I have a BA in Archaeology and a Masters Degree in Classics and Ancient History.
 - ⚡ Hobbies:  
 Anything that gets me outdoors! I love climbing and hiking with my dog, Hector!  
 I spend a lot of time underground exploring caves all over the world.  
+
+<img src="https://github-readme-linkedin.vercel.app/user?username=georgina-bartlett" />
