@@ -1,3 +1,6 @@
+<img src= "https://github.com/gia-bartlett/gia-bartlett/blob/master/Banner.PNG"></img>
+
+
 ### Hi, I'm Georgina! 👋
 
 - 🔭 About me:  
