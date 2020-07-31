@@ -13,5 +13,7 @@ I have a BA in Archaeology and a Masters Degree in Classics and Ancient History.
 - :sunrise_over_mountains: Hobbies:  
 Anything that gets me outdoors! I love climbing and hiking with my dog, Hector!  
 I spend a lot of time underground exploring caves all over the world.  
+I love reading and baking when I am at home.  
+I am always looking to add to my collection of houseplants :hibiscus:
 
 
