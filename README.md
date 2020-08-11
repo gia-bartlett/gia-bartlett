@@ -8,7 +8,7 @@ After working in education for just under a decade I took some time away to trav
 :pushpin: I am based in the UK   
 
 - :mortar_board: Education and Training:  
-I have a BA in Archaeology and a Masters Degree in Classics and Ancient History.  I am currently a Trainee DevOps Engineer with Sparta Global.  
+I have a BA in Archaeology and a Masters Degree in Classics and Ancient History.  I am currently studying for the Foudnation Certificate in Business Analysis from the BCS before moving on to PRINCE2.  
 
 - :sunrise_over_mountains: Hobbies:  
 Anything that gets me outdoors! I love climbing and hiking with my dog, Hector!  
