@@ -19,6 +19,6 @@ I am always looking to add to my collection of houseplants :hibiscus:
 :memo:  
 [![Georgina's github stats](https://github-readme-stats.vercel.app/api?username=gia-bartlett)](https://github.com/gia-bartlett/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gia-bartlett)](https://github.com/gia-bartlett/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gia-bartlett)](https://github.com/gia-bartlett/github-readme-stats)  
 ![Visitor Count](https://profile-counter.glitch.me/gia-bartlett/count.svg)
 
