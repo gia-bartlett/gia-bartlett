@@ -17,7 +17,7 @@ I love reading and baking when I am at home.
 I am always looking to add to my collection of houseplants :hibiscus:
 
 :memo:  
-![Georgina's github stats](https://github-readme-stats.vercel.app/api?username=gia-bartlett&show_icons=true&theme=tokyonight)
+![Georgina's github stats](https://github-readme-stats.vercel.app/api?username=gia-bartlett&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gia-bartlett&show_icons=true&theme=nightowl)  
 
 ![Visitor Count](https://profile-counter.glitch.me/gia-bartlett/count.svg)
